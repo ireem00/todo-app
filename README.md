@@ -8,7 +8,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
    ```bash
    npm install
-Start the development server
+2.Start the development server
 
-´´´bash
+   ```bash
    npx expo start
