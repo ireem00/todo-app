@@ -12,3 +12,10 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
    ```bash
    npx expo start
+```
+You can start developing by editing the files inside the app directory.
+
+Learn more
+Expo documentation
+
+Learn Expo tutorial
